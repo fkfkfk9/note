@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부/JAVA/이펙티브 자바/이펙티브 자바.md",
+                "file": "공부/JAVA/모던 액션 인 자바.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이펙티브 자바"
+              "title": "모던 액션 인 자바"
             }
           }
         ],
@@ -324,21 +324,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7eba711fb1951e3f",
+  "active": "385307bddd84263a",
   "lastOpenFiles": [
-    "obsidian-note",
-    "공부/JAVA/이펙티브 자바/아이템 2 생성자 대신 빌더를 고려하라.md",
-    "공부/JAVA/이펙티브 자바/이펙티브 자바.md",
-    "공부/JAVA/이펙티브 자바/아이템1 생성자 대신 정적 팩토리 메서드를 고려하라.md",
-    "무제.md",
-    "공부/JAVA/이펙티브 자바",
-    "공부/JAVA/GOF 디자인패턴.md",
     "공부/JAVA/포프 자바강의.md",
-    "공부/JAVA/모던 액션 인 자바.md",
+    "공부/JAVA/GOF 디자인패턴.md",
     "공부/JAVA/JAVA.md",
     "공부/개발 공부.md",
-    "공부/JAVA",
     "공부/취업.md",
+    "공부/JAVA/모던 액션 인 자바.md",
+    "공부/JAVA/이펙티브 자바/아이템 2 생성자 대신 빌더를 고려하라.md",
+    "공부/JAVA/이펙티브 자바/아이템1 생성자 대신 정적 팩토리 메서드를 고려하라.md",
+    "공부/JAVA/이펙티브 자바/이펙티브 자바.md",
+    "obsidian-note",
+    "무제.md",
+    "공부/JAVA/이펙티브 자바",
+    "공부/JAVA",
     "공부",
     "이론공부/이력서 작성.md",
     "이론공부/GOF 디자인 패턴.md",
