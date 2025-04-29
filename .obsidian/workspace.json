@@ -4,123 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "76e72f51d125175a",
+        "id": "c31f854b846cc3d6",
         "type": "tabs",
         "children": [
           {
-            "id": "32993d210eadf364",
+            "id": "04fc28736a00fa92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부/개발 공부.md",
+                "file": "공부/JAVA/디자인패턴/싱글톤 패턴.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "개발 공부"
-            }
-          },
-          {
-            "id": "e6e90df0b5fd1f9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "공부/JAVA/JAVA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JAVA"
-            }
-          },
-          {
-            "id": "1bb8241a669ab65b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "공부/JAVA/이펙티브 자바/이펙티브 자바.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "이펙티브 자바"
-            }
-          },
-          {
-            "id": "a53d9ae41e4f2d70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "공부/JAVA/이펙티브 자바/이펙티브 자바.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "이펙티브 자바"
-            }
-          },
-          {
-            "id": "cb47d34f5bc3e20b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "공부/JAVA/이펙티브 자바/이펙티브 자바.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "이펙티브 자바"
-            }
-          },
-          {
-            "id": "da2130f9e954735e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "공부/JAVA/이펙티브 자바/이펙티브 자바.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "이펙티브 자바"
-            }
-          },
-          {
-            "id": "87e75ddc2ec0df43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "공부/JAVA/이펙티브 자바/이펙티브 자바.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "이펙티브 자바"
-            }
-          },
-          {
-            "id": "7eba711fb1951e3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "공부/JAVA/모던 액션 인 자바.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "모던 액션 인 자바"
+              "title": "싱글톤 패턴"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2855ca1477b49c5b",
@@ -211,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "공부/JAVA/디자인패턴/싱글톤 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "싱글톤 패턴 의 나가는 링크"
             }
           },
           {
@@ -230,7 +132,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "태그"
             }
           },
           {
@@ -268,7 +170,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "모든 속성"
             }
           },
           {
@@ -324,14 +226,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "385307bddd84263a",
+  "active": "04fc28736a00fa92",
   "lastOpenFiles": [
-    "공부/JAVA/포프 자바강의.md",
-    "공부/JAVA/GOF 디자인패턴.md",
-    "공부/JAVA/JAVA.md",
+    "공부/JAVA/디자인패턴/GOF 디자인패턴.md",
+    "공부/JAVA/디자인패턴/싱글톤 패턴.md",
+    "공부/JAVA/디자인패턴",
+    "보드게임/후기/25년 4월 26일 달콤스토어 모임.md",
+    "보드게임/후기/그랜드카니발.jpg",
+    "보드게임/후기/메소스.jpg",
+    "보드게임/후기/원더랜드 워.jpg",
+    "보드게임/후기/후기.md",
+    "보드게임/후기",
+    "공부/취업/이력서/이력서 관련.md",
+    "보드게임",
+    "공부/취업/이력서",
+    "공부/취업/취업.md",
+    "공부/DB/SQLP/친절한 SQL 튜닝.md",
+    "공부/DB/SQLP/SQLP.md",
+    "공부/DB/SQLP",
+    "공부/DB/DB.md",
     "공부/개발 공부.md",
-    "공부/취업.md",
+    "공부/DB",
+    "공부/취업",
     "공부/JAVA/모던 액션 인 자바.md",
+    "공부/JAVA/포프 자바강의.md",
+    "공부/JAVA/JAVA.md",
     "공부/JAVA/이펙티브 자바/아이템 2 생성자 대신 빌더를 고려하라.md",
     "공부/JAVA/이펙티브 자바/아이템1 생성자 대신 정적 팩토리 메서드를 고려하라.md",
     "공부/JAVA/이펙티브 자바/이펙티브 자바.md",
@@ -339,15 +258,9 @@
     "무제.md",
     "공부/JAVA/이펙티브 자바",
     "공부/JAVA",
-    "공부",
     "이론공부/이력서 작성.md",
     "이론공부/GOF 디자인 패턴.md",
-    "이론공부",
     "Untitled.canvas",
-    "Archives",
-    "Resources",
-    "Area",
-    "Project",
     "Untitled.md"
   ]
 }
